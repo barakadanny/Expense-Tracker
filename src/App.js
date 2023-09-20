@@ -6,8 +6,26 @@ import Home from "./components/Expenses/Home";
 
 const DUMMY_EXPENSES = [
   {
+    id: "e1",
+    title: "Dummy data 1",
+    amount: 420,
+    date: new Date(2020, 5, 12),
+  },
+  {
+    id: "e2",
+    title: "Dummy data 2",
+    amount: 127,
+    date: new Date(2019, 5, 12),
+  },
+  {
+    id: "e3",
+    title: "Dummy data 3",
+    amount: 983,
+    date: new Date(2022, 5, 12),
+  },
+  {
     id: "e4",
-    title: "New Desk (Wooden)",
+    title: "Dummy data 4",
     amount: 450,
     date: new Date(2021, 5, 12),
   },
