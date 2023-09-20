@@ -8,6 +8,7 @@ module.exports = {
         secondaryColor: "#2e2d2d",
         textColor1: "#8e8e8e",
         greenColor: "#89caa0",
+        itemBackgroundColor: "#e8e8e8",
       },
     },
   },
