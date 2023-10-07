@@ -12,6 +12,12 @@ const DUMMY_EXPENSES = [
     date: new Date(2020, 5, 12),
   },
   {
+    id: "e6",
+    title: "Dummy data 5",
+    amount: 420,
+    date: new Date(2020, 5, 12),
+  },
+  {
     id: "e2",
     title: "Dummy data 2",
     amount: 127,
@@ -27,7 +33,7 @@ const DUMMY_EXPENSES = [
     id: "e4",
     title: "Dummy data 4",
     amount: 450,
-    date: new Date(2021, 5, 12),
+    date: new Date(2022, 5, 12),
   },
 ];
 
