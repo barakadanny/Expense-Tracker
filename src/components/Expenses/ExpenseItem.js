@@ -5,7 +5,6 @@ function ExpenseItem(props) {
   const [title, setTitle] = useState(props.title);
   const clickHandler = () => {
     setTitle("Clicked and Update!");
-    // console.log("Clicked");
   };
   return (
     <div className="bg-[#2e2d2d] text-white cursor-pointer p-3 mb-4 ">
